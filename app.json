@@ -1,0 +1,17 @@
+{
+  "name": "EgoApp",
+  "displayName": "EgoApp",
+  "expo": {
+    "name": "EgoApp",
+    "slug": "EgoApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
